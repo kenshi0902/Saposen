@@ -12,7 +12,8 @@
 ここで説明する LINE Bot は @876ephlo で実装されている **物件番号and住所検索** のことです。  
 常に自動応答ができるので友達追加して遊んでみてください！  
 
-<img src="https://qr-official.line.me/gs/M_876ephlo_BW.png?oat_content=qr">  
+![L_gainfriends_2dbarcodes_BW](https://github.com/kenshi0902/Saposen/assets/39240585/42a0b18e-bee2-49e3-8f4f-ccdd98dfbe07)
+
 
 設定の変更には権限付与が必要なのでその時の管理者に連絡をお願いします。  
 権限付与をされると[LINE Official Account Manager](https://manager.line.biz/account/@876ephlo)というサイトで設定の変更をすることができます。
