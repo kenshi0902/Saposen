@@ -5,7 +5,7 @@
 ### このページでの説明システム
   - [LINE Bot](https://github.com/kenshi0902/Saposen#line-bot) (物件番号and住所検索)
   - [集中管理スプレッドシート](https://github.com/kenshi0902/Saposen#%E9%9B%86%E4%B8%AD%E7%AE%A1%E7%90%86%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88)
-  - [SlackとNotionの連携(住まい用)]()
+  - [SlackとNotionの連携](https://github.com/kenshi0902/Saposen#slack%E3%81%A8notion%E3%81%AE%E9%80%A3%E6%90%BA%E4%BD%8F%E3%81%BE%E3%81%84%E7%94%A8) (住まい用)
 
 ---
 
@@ -87,10 +87,10 @@
   すごくざっくりと説明すると、ここで作成した関数は変数 `cb` によって与えられた列の1列左を `rng.offset(0, 1)` によって定義し、判定条件別に記述を変えるという操作をしています。  
   とは言われても、何を言っているか分からないと思うので以下の動画にて詳しい内容を解説します。  
   動画の前半では前述した基本的なトラブル対応のやり方くを解説し、後半では改善をする際に役に立つようにプログラミングを習ったことがない人を想定してコードの解説を行います。  
-  [![スプシ解説動画](https://img.youtube.com/vi/A8hluEyECT8/0.jpg)](https://www.youtube.com/watch?v=A8hluEyECT8)
+  [![スプシ解説動画](https://github.com/kenshi0902/Saposen/assets/39240585/553eb9cc-ce78-4ca7-9699-6a6b559d252c)](https://www.youtube.com/watch?v=NG9thd17C1o)
 
 
-# SlackとNotionの連携(住まい用)
+# SlackとNotionの連携 (住まい用)
   住まいの方向けにSlackとNotionの解説動画を作成しました。  
   日常的に使えると便利になると思うので是非動画を見てみてください！  
   [![SlackとNotionの連携解説動画](https://github.com/kenshi0902/Saposen/assets/39240585/6b8a0ab4-8869-44f7-83a8-3051b1ae0228)](https://www.youtube.com/watch?v=A8hluEyECT8)
