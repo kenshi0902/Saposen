@@ -87,10 +87,10 @@
   すごくざっくりと説明すると、ここで作成した関数は変数 `cb` によって与えられた列の1列左を `rng.offset(0, 1)` によって定義し、判定条件別に記述を変えるという操作をしています。  
   とは言われても、何を言っているか分からないと思うので以下の動画にて詳しい内容を解説します。  
   動画の前半では前述した基本的なトラブル対応のやり方くを解説し、後半では改善をする際に役に立つようにプログラミングを習ったことがない人を想定してコードの解説を行います。  
-  [![スプシ解説動画](https://github.com/kenshi0902/Saposen/assets/39240585/553eb9cc-ce78-4ca7-9699-6a6b559d252c)](https://www.youtube.com/watch?v=NG9thd17C1o)
+  [![スプシ解説動画](https://user-images.githubusercontent.com/39240585/270975566-44f08deb-ecf7-4d99-9ceb-426029584dc5.png)](https://www.youtube.com/watch?v=NG9thd17C1o)
 
 
 # SlackとNotionの連携 (住まい用)
   住まいの方向けにSlackとNotionの解説動画を作成しました。  
   日常的に使えると便利になると思うので是非動画を見てみてください！  
-  [![SlackとNotionの連携解説動画](https://github.com/kenshi0902/Saposen/assets/39240585/6b8a0ab4-8869-44f7-83a8-3051b1ae0228)](https://www.youtube.com/watch?v=A8hluEyECT8)
+  [![SlackとNotionの連携解説動画](https://user-images.githubusercontent.com/39240585/270975767-facdd9e5-d7d5-49c8-91ba-10faa86a5f92.png)](https://www.youtube.com/watch?v=A8hluEyECT8)
