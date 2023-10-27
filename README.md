@@ -52,9 +52,9 @@
 ## コードの修正
 
 # 集中管理スプレッドシート
-  各マニュアルを書きました。基本的な使い方はこちらを参考にしてください。
-  [エンドユーザ向けマニュアル](https://docs.google.com/document/d/14Tke2ZHWRxHpRRDPMTOfIWvjrg6ZL711E4N9DMA0kAI/edit?usp=sharing)
-  [管理者向けマニュアル](https://docs.google.com/document/d/1nTNV4m0yEbVJtXCV-BI3YGO6PJaP8H9CMCDU9pcND3s/edit?usp=sharing)
+  各マニュアルを書きました。基本的な使い方はこちらを参考にしてください。   
+  [エンドユーザ向けマニュアル](https://docs.google.com/document/d/14Tke2ZHWRxHpRRDPMTOfIWvjrg6ZL711E4N9DMA0kAI/edit?usp=sharing)  
+  [管理者向けマニュアル](https://docs.google.com/document/d/1nTNV4m0yEbVJtXCV-BI3YGO6PJaP8H9CMCDU9pcND3s/edit?usp=sharing)  
   ここでは普段セクションが使っている集中管理のスプレッドシートの時間が自動で入力されるシステムについて解説します。  
   プログラミングを伴う内容ですが、内容としてとても難しい訳ではありません。プログラミングを触ったことがない人にも理解してもらうように動画での解説も用意する予定なので気楽に読んでみてください。  
   ここで説明する項目は以下の通りです。  
