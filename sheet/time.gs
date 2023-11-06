@@ -3,7 +3,7 @@ function onEdit(){
   const rng = as.getActiveCell();
   const act = as.getActiveSheet().getSheetName();
   var flag = rng.getValue();
-  const cb = [6,8,15,17,19,22,24,26,28]
+  const cb = [7, 9, 16, 18, 20, 22, 25, 27, 29, 31, 33]
 
   if(act == "セクション用"){
     for(i=0;i<9;i++){
